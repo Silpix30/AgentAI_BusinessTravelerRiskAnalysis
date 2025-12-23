@@ -1,0 +1,9 @@
+openai
+azure-identity
+requests
+streamlit
+azure-ai-agents
+python-dotenv
+azure-ai-projects
+flask
+flask-cors
